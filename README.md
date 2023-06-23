@@ -107,6 +107,7 @@ v18.16.0
 
 ### Components
 -Added in Navbar. (To-do) Create pages for About Us, Our Services, and Contact Us.
+
 -Log In icon is already on Navbar, will need to utilize Django Login/Logout Authentication. https://learndjango.com/tutorials/django-login-and-logout-tutorial Utilizing this as a demo as a start for the login system and will test accordingly.
 
 ### Blocks
