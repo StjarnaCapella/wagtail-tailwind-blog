@@ -112,4 +112,5 @@ v18.16.0
 
 ### Blocks
 -Added Accordion to Blocks. 
+
 -More blocks to come: Embedded Video, Card Tiles, File Input Section, 
