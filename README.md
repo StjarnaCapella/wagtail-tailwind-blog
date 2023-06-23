@@ -102,3 +102,13 @@ docker-compose build
 docker-compose up
 ### Make sure node version is:
 v18.16.0
+
+## FoxIEEE Additions since 6/23/2023
+
+### Components
+-Added in Navbar. (To-do) Create pages for About Us, Our Services, and Contact Us.
+-Log In icon is already on Navbar, will need to utilize Django Login/Logout Authentication. https://learndjango.com/tutorials/django-login-and-logout-tutorial Utilizing this as a demo as a start for the login system and will test accordingly.
+
+### Blocks
+-Added Accordion to Blocks. 
+-More blocks to come: Embedded Video, Card Tiles, File Input Section, 
